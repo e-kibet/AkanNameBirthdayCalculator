@@ -24,6 +24,13 @@ An Akan Name is a naming system used by people in Ghana where a child is named b
  * Jquery
  * Google Fonts
 
+
+ ## 📷 Previews
+
+<p align="center">
+<img src="previews/preview0.png" alt="drawing" width="570px" />
+</p>
+
 ### License
 NO license
 
